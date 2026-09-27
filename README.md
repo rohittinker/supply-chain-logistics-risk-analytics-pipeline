@@ -50,3 +50,6 @@ Open Power BI Desktop.
 * Click on Get Data > PostgreSQL database.
 * Enter your Neon database credentials and server details.
 * Import your tables (supply_chain_transit, supply_chain_warehouse, supply_chain_risk) and build or refresh your analytics dashboard.
+
+## 📊 Dashboard Preview
+![Supply Chain Dashboard](https://github.com/rohittinker/supply-chain-logistics-risk-analytics-pipeline/blob/main/Supply-Chain-Dashboard.png)
