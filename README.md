@@ -1,4 +1,4 @@
-# Automated Supply Chain & Logistics Risk Analyzer
+# Supply Chain & Logistics Risk Analytics Pipeline
 
 ## 🚀 Project Overview
 An end-to-end data engineering and analytics pipeline built to solve critical supply chain bottlenecks, predict delivery disruption probabilities, and optimize freight logistics.
